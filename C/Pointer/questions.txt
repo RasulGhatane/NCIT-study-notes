@@ -1,0 +1,14 @@
+WAP to swap two variables using pointer.
+WAP to find maximum of two numbers using pointer.
+WAP to find sum of all elements of array using pointer.
+WAP to find sum of all elements of array using function and pointer.
+WAP to find sum of all elements of array using DMA.
+WAP to find sum of all elements of array using DMA and function.
+WAP to find sort array elements in desending order using DMA.
+WAP to find maximum and minimum elements of array using DMA.
+WAP to read and display m*n matrix using pointer.
+WAP to find given number in an array dynamically.
+WAP to find sum of even number in an 1D array using user defined function. THe calling function should display sum.
+Find sum of main diagonal of square matrix using function. The calling function should display the sum.
+CHeck palindrome string using user defined function. 
+Copy 1-D array into another array in reverse order using DMA.
